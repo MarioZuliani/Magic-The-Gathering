@@ -1,0 +1,4 @@
+analysis,statistic,df,p_value
+Rare versus mythic cards by set,0.4511922633735904,2,0.798040339796312
+Mythic presence in packs by set,0.39878150096926057,2,0.8192297163736519
+Mythic presence in packs by set (box-label permutation),0.39878150096926057,NA,0.5765

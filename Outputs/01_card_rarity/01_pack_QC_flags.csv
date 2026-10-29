@@ -1,0 +1,10 @@
+set,rep,pack_rep,n_cards,n_rare,n_mythic,has_rare,has_mythic,high_rarity_class,unusual_size,missing_rare_or_mythic
+Core 2021,1,3,14,0,0,FALSE,FALSE,Neither recorded,FALSE,TRUE
+Core 2021,1,13,17,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Core 2021,2,24,17,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Core 2021,3,17,12,0,1,FALSE,TRUE,Mythic present,TRUE,FALSE
+Core 2021,4,3,11,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Ikoria: Lair of Behemoths,1,27,17,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Zendikar Rising,1,27,18,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Zendikar Rising,1,29,17,0,1,FALSE,TRUE,Mythic present,TRUE,FALSE
+Zendikar Rising,3,27,4,1,0,TRUE,FALSE,Rare only,TRUE,FALSE

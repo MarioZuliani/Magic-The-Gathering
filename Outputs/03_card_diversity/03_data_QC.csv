@@ -1,0 +1,4 @@
+set,n_cards,n_designs,singletons,doubletons,coverage_approx,n_packs,n_boxes,min_pack_size,max_pack_size
+Core 2021,2596,256,11,14,0.9957627118644068,180,5,11,17
+Ikoria: Lair of Behemoths,2600,256,10,20,0.9961538461538462,180,5,13,17
+Zendikar Rising,2517,264,27,19,0.9892729439809297,180,5,4,18

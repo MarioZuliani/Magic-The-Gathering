@@ -1,0 +1,541 @@
+set,rep,pack_rep,n_cards,n_rare,n_mythic,has_rare,has_mythic,high_rarity_class,unusual_size,missing_rare_or_mythic
+Core 2021,1,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,2,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,3,14,0,0,FALSE,FALSE,Neither recorded,FALSE,TRUE
+Core 2021,1,4,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,5,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,7,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,1,8,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,10,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,12,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,13,17,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Core 2021,1,14,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,15,14,0,2,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,1,16,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,18,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,19,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,20,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,22,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,23,16,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,24,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,25,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,1,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,27,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,29,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,31,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,1,32,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,33,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,35,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,1,36,13,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,2,1,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,5,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,7,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,9,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,11,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,12,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,13,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,15,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,16,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,17,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,2,18,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,19,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,20,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,2,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,22,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,23,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,2,24,17,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Core 2021,2,25,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,26,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,2,27,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,30,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,31,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,32,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,2,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,34,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,2,36,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,3,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,3,4,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,5,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,6,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,10,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,11,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,12,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,13,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,14,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,15,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,16,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,17,12,0,1,FALSE,TRUE,Mythic present,TRUE,FALSE
+Core 2021,3,18,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,19,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,20,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,21,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,22,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,3,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,25,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,3,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,27,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,29,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,30,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,31,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,32,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,33,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,3,36,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,3,11,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Core 2021,4,4,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,4,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,9,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,11,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,12,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,13,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,14,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,4,15,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,16,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,19,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,20,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,22,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,4,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,25,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,26,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,28,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,4,29,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,30,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,31,13,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,32,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,34,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,35,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,4,36,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,2,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,3,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,4,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,7,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,8,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,12,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,5,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,14,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,15,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,16,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,19,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,20,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,21,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,22,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,24,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,26,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,28,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,29,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,30,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,31,13,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Core 2021,5,32,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Core 2021,5,36,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,1,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,4,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,8,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,9,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,10,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,11,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,12,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,13,16,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,15,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,16,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,17,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,18,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,19,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,20,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,21,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,22,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,23,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,26,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,27,17,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Ikoria: Lair of Behemoths,1,28,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,30,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,31,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,32,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,34,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,35,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,1,36,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,3,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,5,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,7,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,8,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,9,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,11,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,12,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,15,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,16,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,17,13,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,18,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,19,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,20,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,21,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,22,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,23,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,25,16,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,26,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,30,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,31,13,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,32,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,34,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,35,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,2,36,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,1,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,2,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,4,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,6,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,8,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,9,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,10,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,12,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,14,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,15,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,16,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,17,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,18,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,19,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,20,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,21,13,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,22,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,23,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,24,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,25,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,27,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,29,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,31,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,32,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,3,36,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,1,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,3,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,5,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,6,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,7,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,8,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,11,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,12,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,13,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,15,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,16,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,17,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,19,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,20,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,21,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,22,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,24,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,26,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,27,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,30,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,31,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,32,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,33,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,34,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,35,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,4,36,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,1,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,2,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,5,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,6,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,7,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,8,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,10,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,12,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,13,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,15,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,16,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,18,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,19,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,20,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,22,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,24,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,25,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,26,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,28,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,31,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,32,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,33,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,35,15,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Ikoria: Lair of Behemoths,5,36,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,2,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,3,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,8,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,12,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,13,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,14,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,1,15,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,16,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,18,13,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,1,19,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,20,16,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,22,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,24,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,1,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,27,18,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Zendikar Rising,1,28,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,29,17,0,1,FALSE,TRUE,Mythic present,TRUE,FALSE
+Zendikar Rising,1,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,31,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,1,32,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,34,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,1,36,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,2,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,2,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,4,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,9,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,12,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,14,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,15,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,16,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,19,15,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,20,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,2,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,22,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,2,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,28,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,31,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,2,32,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,33,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,2,34,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,2,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,2,36,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,1,15,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,10,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,12,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,15,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,16,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,19,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,20,14,0,2,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,3,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,22,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,24,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,3,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,27,4,1,0,TRUE,FALSE,Rare only,TRUE,FALSE
+Zendikar Rising,3,28,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,29,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,3,30,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,3,31,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,32,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,35,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,3,36,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,10,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,4,11,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,4,12,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,14,13,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,15,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,16,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,4,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,19,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,20,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,22,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,25,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,4,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,28,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,31,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,32,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,4,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,34,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,35,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,4,36,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,1,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,2,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,3,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,4,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,5,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,6,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,7,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,8,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,9,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,10,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,11,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,12,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,5,13,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,14,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,15,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,16,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,17,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,18,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,19,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,20,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,21,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,22,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,23,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,24,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,25,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,26,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,27,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,28,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,5,29,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,30,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,31,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,5,32,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,33,14,1,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,34,14,2,0,TRUE,FALSE,Rare only,FALSE,FALSE
+Zendikar Rising,5,35,14,1,1,TRUE,TRUE,Mythic present,FALSE,FALSE
+Zendikar Rising,5,36,14,0,1,FALSE,TRUE,Mythic present,FALSE,FALSE

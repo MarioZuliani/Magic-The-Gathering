@@ -1,0 +1,327 @@
+observer,set,rep,pack_rep,card_name,rarity,card_type,creature_type,power,toughness,n_colors,color,CMC,finish,n_keywords,keywords,n,price,price_2026,power_original,toughness_original,CMC_original,variable_power
+mz,Core 2021,1,26,Archfiend's Vessel,Uncommon,Creature,Human Cleric,1,1,1,Black,1,Regular,1,LIfelink,1,0.25,0.18,1,1,1,FALSE
+mz,Core 2021,1,3,Blood Glutton,Common,Creature,Vampire,4,3,1,Black,5,Regular,1,Lifelink,1,0.15,0.07,4,3,5,FALSE
+mz,Core 2021,1,2,Caged Zombie,Common,Creature,Zombie,2,3,1,Black,3,Regular,0,NA,1,0.15,0.21,2,3,3,FALSE
+mz,Core 2021,1,35,Carrion Grub,Uncommon,Creature,Insect,0,5,1,Black,4,Regular,0,NA,1,0.25,0.19,0,5,4,FALSE
+mz,Core 2021,1,14,Crypt Lurker,Common,Creature,Horror,3,4,1,Black,4,Regular,0,NA,1,0.15,0.18,3,4,4,FALSE
+mz,Core 2021,1,6,Deathbloom Thallid,Common,Creature,Fungus,3,2,1,Black,3,Regular,0,NA,1,0.15,0.29,3,2,3,FALSE
+mz,Core 2021,1,7,Fetid Imp,Common,Creature,Imp,1,2,1,Black,2,Regular,1,Flying,1,0.15,0.16,1,2,2,FALSE
+mz,Core 2021,1,2,Gloom Sower,Common,Creature,Horror,8,6,1,Black,7,Regular,0,NA,1,0.15,0.15,NA,NA,7,FALSE
+mz,Core 2021,1,36,Goremand,Uncommon,Creature,Demon,5,5,1,Black,6,Regular,2,"Flying, Trample",1,0.25,0.22,5,5,6,FALSE
+mz,Core 2021,1,5,Hooded Blightfang,Rare,Creature,Snake,1,4,1,Black,3,Regular,1,Deathtouch,1,0.75,1.65,1,4,3,FALSE
+mz,Core 2021,1,4,"Kaervek, the Spiteful",Rare,Creature,Human Warlock,3,2,1,Black,4,Regular,0,NA,1,0.5,0.29,3,2,4,FALSE
+mz,Core 2021,1,2,Kitesail Freebooter,Uncommon,Creature,Human Pirate,1,2,1,Black,2,Regular,1,Flying,1,0.35,0.26,1,2,2,FALSE
+mz,Core 2021,1,17,Liliana's Devotee,Uncommon,Creature,Human Warlock,2,3,1,Black,3,Showcase,0,NA,1,0.5,0.13,2,3,3,FALSE
+mz,Core 2021,1,34,Liliana's Standard Bearer,Rare,Creature,Zombie Knight,3,1,1,Black,3,Regular,1,Flash,1,1,0.31,3,1,3,FALSE
+mz,Core 2021,1,1,Liliana's Steward,Common,Creature,Zombie,1,2,1,Black,1,Showcase,0,NA,1,0.25,0.24,1,2,1,FALSE
+mz,Core 2021,1,1,Masked Blackguard,Common,Creature,Human Rogue,2,1,1,Black,2,Regular,1,Flash,1,0.15,0.12,2,1,2,FALSE
+mz,Core 2021,1,8,Silversmote Ghoul,Uncommon,Creature,Zombie Vampire,3,1,1,Black,3,Regular,0,NA,1,0.25,0.28,3,1,3,FALSE
+mz,Core 2021,1,11,Skeleton Archer,Common,Creature,Skeleton Archer,3,3,1,Black,4,Regular,0,NA,1,0.15,0.15,3,3,4,FALSE
+mz,Core 2021,1,21,Tavern Swindler,Uncommon,Creature,Human Rogue,2,2,1,Black,2,Regular,0,NA,1,0.25,0.27,2,2,2,FALSE
+mz,Core 2021,1,25,Thieve's Guild Enforcer,Rare,Creature,Human Rogue,1,1,1,Black,1,Foil,1,Flash,1,15,0.47,1,1,1,FALSE
+mz,Core 2021,1,6,"Vito, Thorn of the Dusk Rose",Rare,Creature,Vampire Cleric,1,3,1,Black,3,Regular,0,NA,1,6,11.09,1,3,3,FALSE
+mz,Core 2021,1,23,Walking Corpse,Common,Creature,Zombie,2,2,1,Black,2,Regular,0,NA,1,0.15,0.26,2,2,2,FALSE
+mz,Core 2021,1,35,"Barrin, Tolarian Archmage",Rare,Creature,Human Wizard,2,2,1,Blue,3,Regular,0,NA,1,0.35,0.36,2,2,3,FALSE
+mz,Core 2021,5,4,Ghostly Pilferer,Rare,Creature,Spirit Rogue,2,1,1,Blue,2,Foil,0,NA,1,1,3.76,2,1,2,FALSE
+mz,Core 2021,1,16,Jeskai Elder,Uncommon,Creature,Human Monk,1,2,1,Blue,2,Regular,1,Prowess,1,0.25,0.04,1,2,2,FALSE
+mz,Core 2021,1,10,Keen Glidemaster,Common,Creature,Human Soldier,2,1,1,Blue,2,Regular,0,NA,1,0.15,0.04,2,1,2,FALSE
+mz,Core 2021,1,12,Library Larcenist,Common,Creature,Merfolk Rogue,1,2,1,Blue,3,Regular,0,NA,1,0.15,0.2,1,2,3,FALSE
+mz,Core 2021,1,8,Mistral Singer,Common,Creature,Siren,2,2,1,Blue,3,Regular,2,"Flying, Prowess",1,0.15,0.12,2,2,3,FALSE
+mz,Core 2021,1,20,Pursued Whale,Rare,Creature,Whale,8,8,1,Blue,7,Regular,0,NA,1,0.5,0.29,8,8,7,FALSE
+mz,Core 2021,1,30,Roaming Ghostlight,Common,Creature,Spirit,3,2,1,Blue,5,Regular,1,Flying,1,0.15,0.09,3,2,5,FALSE
+mz,Core 2021,1,27,Shacklegeist,Rare,Creature,Spirit,2,2,1,Blue,2,Regular,1,Flying,1,0.75,0.27,2,2,2,FALSE
+mz,Core 2021,1,1,Shipwreck Dowser,Uncommon,Creature,Merfolk Wizard,3,3,1,Blue,5,Regular,1,Prowess,1,0.25,0.27,3,3,5,FALSE
+mz,Core 2021,1,7,Spined Megalodon,Common,Creature,Shark,5,7,1,Blue,7,Regular,1,Hexproof,1,0.15,0.32,5,7,7,FALSE
+mz,Core 2021,1,2,Stormwing Entity,Rare,Creature,Elemental,3,3,1,Blue,5,Regular,2,"Flying, Prowess",1,4,0.25,3,3,5,FALSE
+mz,Core 2021,1,3,Teferi's Protégé,Common,Creature,Human Wizard,2,3,1,Blue,3,Showcase,0,NA,1,0.25,0.18,2,3,3,FALSE
+mz,Core 2021,1,5,Tide Skimmer,Uncommon,Creature,Drake,2,3,1,Blue,4,Regular,1,Flying,1,0.15,0.26,2,3,4,FALSE
+mz,Core 2021,1,4,Tolarian Kraken,Uncommon,Creature,Kraken,4,6,1,Blue,6,Regular,0,NA,1,0.25,0.19,4,6,6,FALSE
+mz,Core 2021,1,16,Tome Anima,Common,Creature,Spirit,3,3,1,Blue,4,Regular,0,NA,1,0.15,0.1,3,3,4,FALSE
+mz,Core 2021,1,5,Vodalian Arcanist,Common,Creature,Merfolk Wizard,1,3,1,Blue,2,Regular,0,NA,1,0.15,0.18,1,3,2,FALSE
+mz,Core 2021,1,34,Waker of Waves,Uncommon,Creature,Whale,7,7,1,Blue,7,Regular,0,NA,1,0.25,0.31,7,7,7,FALSE
+mz,Core 2021,1,11,Wall of Runes,Common,Creature,Wall,0,4,1,Blue,1,Regular,1,Defender,1,0.15,0.23,0,4,1,FALSE
+mz,Core 2021,1,4,Wishcoin Crab,Common,Creature,Crab,2,5,1,Blue,4,Regular,0,NA,1,0.15,0.21,2,5,4,FALSE
+mz,Core 2021,3,35,"Azusa, Lost but Seeking",Rare,Creature,Human Monk,1,2,1,Green,3,Regular,0,NA,1,13,11.55,1,2,3,FALSE
+mz,Core 2021,1,12,Burlfist Oak,Uncommon,Creature,Treefolk Druid,2,3,1,Green,4,Regular,0,NA,1,0.25,0.2,2,3,4,FALSE
+mz,Core 2021,1,11,Canopy Stalker,Uncommon,Creature,Cat,4,2,1,Green,4,Regular,0,NA,1,0.25,0.24,4,2,4,FALSE
+mz,Core 2021,1,1,Colossal Dreadmaw,Common,Creature,Dinosaur,6,6,1,Green,6,Regular,1,Trample,1,0.15,0.19,6,6,6,FALSE
+mz,Core 2021,1,21,Drowsing Tyrannodon,Common,Creature,Dinosaur,3,3,1,Green,2,Regular,1,Defender,1,0.15,0.19,3,3,2,FALSE
+mz,Core 2021,1,31,Elder Gargaroth,Mythic,Creature,Beast,6,6,1,Green,5,Regular,3,"Vigilance, Reach, Trample",1,30,2.4,6,6,5,FALSE
+mz,Core 2021,2,10,Feline Sovereign,Rare,Creature,Cat,2,3,1,Green,3,Regular,0,NA,1,1,1.78,2,3,3,FALSE
+mz,Core 2021,1,28,Fierce Empath,Uncommon,Creature,Elf,1,1,1,Green,3,Regular,0,NA,1,0.25,0.26,1,1,3,FALSE
+mz,Core 2021,1,3,Garruk's Gorehorn,Common,Creature,Beast,7,3,1,Green,5,Regular,0,NA,1,0.15,0.21,7,3,5,FALSE
+mz,Core 2021,3,16,Garruk's Harbinger,Rare,Creature,Beast,4,3,1,Green,3,Regular,1,Hexproof from black,1,0.75,0.29,4,3,3,FALSE
+mz,Core 2021,1,10,Gnarled Sage,Common,Creature,Treefolk Druid,4,4,1,Green,5,Regular,1,Reach,1,0.5,0.13,4,4,5,FALSE
+mz,Core 2021,5,2,"Jolrael, Mwonvuli Recluse",Rare,Creature,Human Druid,1,2,1,Green,2,Regular,0,NA,1,1,0.28,1,2,2,FALSE
+mz,Core 2021,1,1,Llanowar Visionary,Common,Creature,Elf Druid,2,2,1,Green,3,Regular,0,NA,1,0.15,0.28,2,2,3,FALSE
+mz,Core 2021,1,4,Ornery Dilophosaur,Common,Creature,Dinosaur,2,2,1,Green,4,Regular,1,Deathtouch,1,0.15,0.18,2,2,4,FALSE
+mz,Core 2021,1,24,Portcullis Vine,Common,Creature,Plant Wall,0,3,1,Green,1,Regular,1,Defender,1,0.15,0.26,0,3,1,FALSE
+mz,Core 2021,1,14,Pridemalkin,Common,Creature,Cat,2,1,1,Green,3,Regular,0,NA,1,0.15,0.29,2,1,3,FALSE
+mz,Core 2021,1,10,Quirion Dryad,Uncommon,Creature,Dryad,1,1,1,Green,2,Regular,0,NA,1,0.25,0.17,1,1,2,FALSE
+mz,Core 2021,1,3,Sabertooth Mauler,Common,Creature,Cat,3,3,1,Green,4,Regular,0,NA,1,0.15,0.16,3,3,4,FALSE
+mz,Core 2021,1,14,Scavenging Ooze,Rare,Creature,Ooze,2,2,1,Green,2,Regular,0,NA,1,2,0.38,2,2,2,FALSE
+mz,Core 2021,1,1,Skyway Sniper,Uncommon,Creature,Elf Archer,1,2,1,Green,1,Regular,1,Reach,1,0.25,0.24,1,2,1,FALSE
+mz,Core 2021,1,6,Snarespinner,Common,Creature,Spider,1,3,1,Green,2,Regular,1,Reach,1,0.15,0.13,1,3,2,FALSE
+mz,Core 2021,2,2,Sporeweb Weaver,Rare,Creature,Spider,1,4,1,Green,3,Regular,2,"Reach, hexproof from blue",1,0.75,0.49,1,4,3,FALSE
+mz,Core 2021,1,5,Thrashing Brontodon,Uncommon,Creature,Dinosaur,3,4,1,Green,3,Regular,0,NA,1,0.25,0.2,3,4,3,FALSE
+mz,Core 2021,1,6,Trufflesnout,Common,Creature,Boar,2,2,1,Green,3,Regular,0,NA,1,0.15,0.22,2,2,3,FALSE
+mz,Core 2021,1,16,Warden of the Woods,Uncommon,Creature,Treefolk,5,7,1,Green,6,Regular,1,Vigilance,1,0.25,0.21,5,7,6,FALSE
+mz,Core 2021,1,6,Wildwood Scourge,Uncommon,Creature,Hydra,0,0,1,Green,1,Regular,0,NA,1,0.25,0.18,0,0,1,FALSE
+mz,Core 2021,1,15,Battle-Rattle Shaman,Uncommon,Creature,Goblin Shaman,2,2,1,Red,4,Regular,0,NA,1,0.25,0.2,2,2,4,FALSE
+mz,Core 2021,1,19,Bolt Hound,Uncommon,Creature,Elemental Dog,2,2,1,Red,3,Regular,1,Haste,1,0.25,0.31,2,2,3,FALSE
+mz,Core 2021,1,5,Bone Pit Brute,Common,Creature,Cyclopes,4,5,1,Red,6,Regular,1,Menace,1,0.15,0.05,4,5,6,FALSE
+mz,Core 2021,1,8,Brash Taunter,Rare,Creature,Goblin Shaman,1,1,1,Red,5,Regular,1,Indestructible,1,1.5,2.74,1,1,5,FALSE
+mz,Core 2021,2,30,Chandra's Incinerator,Rare,Creature,Elemental,6,6,1,Red,6,Foil Showcase,1,Trample,1,1,2.63,6,6,6,FALSE
+mz,Core 2021,1,7,Chandra's Magmutt,Common,Creature,Elemental Dog,2,2,1,Red,2,Regular,0,NA,1,0.15,0.19,2,2,2,FALSE
+mz,Core 2021,1,33,Chandra's Pyreling,Uncommon,Creature,Elemental Lizard,1,3,1,Red,2,Regular,0,NA,1,0.25,0.18,1,3,2,FALSE
+mz,Core 2021,2,24,Conspicuous Snoop,Rare,Creature,Goblin Rogue,2,2,1,Red,2,Regular,0,NA,1,2,3.46,2,2,2,FALSE
+mz,Core 2021,2,1,"Gadrak, the Crown-Scourge",Rare,Creature,Dragon,5,4,1,Red,3,Regular,1,Flying,1,0.5,0.42,5,4,3,FALSE
+mz,Core 2021,1,6,Goblin Arsonist,Common,Creature,Goblin Shaman,1,1,1,Red,1,Regular,0,NA,1,0.15,0.28,1,1,1,FALSE
+mz,Core 2021,1,2,Havoc Jester,Uncommon,Creature,Devil,5,5,1,Red,5,Regular,0,NA,1,0.25,0.28,5,5,5,FALSE
+mz,Core 2021,1,24,Heartfire Immolator,Uncommon,Creature,Human Wizard,2,2,1,Red,2,Regular,1,Prowess,1,0.25,0.12,2,2,2,FALSE
+mz,Core 2021,1,19,Hellkite Punisher,Uncommon,Creature,Dragon,6,6,1,Red,7,Regular,1,Flying,1,0.25,0.27,6,6,7,FALSE
+mz,Core 2021,1,13,Hobblefiend,Common,Creature,Devil,2,1,1,Red,2,Regular,1,Trample,1,0.15,0.28,2,1,2,FALSE
+mz,Core 2021,1,11,Igneous Cur,Common,Creature,Elemental Dog,1,2,1,Red,2,Regular,0,NA,1,0.15,0.25,1,2,2,FALSE
+mz,Core 2021,1,3,Onakke Ogre,Common,Creature,Ogre Warrior,4,2,1,Red,3,Regular,0,NA,1,0.15,0.15,4,2,3,FALSE
+mz,Core 2021,1,4,Pitchburn Devils,Common,Creature,Devil,3,3,1,Red,5,Regular,0,NA,1,0.15,0.15,3,3,5,FALSE
+mz,Core 2021,1,2,Spellgorger Weird,Common,Creature,Weird,2,2,1,Red,3,Regular,0,NA,1,0.15,0.16,2,2,3,FALSE
+mz,Core 2021,1,2,"Subira, Tulzidi Caravanner",Rare,Creature,Human Shaman,2,3,1,Red,3,Regular,1,Haste,1,0.5,0.32,2,3,3,FALSE
+mz,Core 2021,3,22,Terror of the Peaks,Mythic,Creature,Dragon,5,4,1,Red,5,Regular,1,Flying,1,22,32.44,5,4,5,FALSE
+mz,Core 2021,1,5,Turret Ogre,Common,Creature,Ogre Warrior,4,3,1,Red,4,Regular,1,Reach,1,0.15,0.04,4,3,4,FALSE
+mz,Core 2021,1,5,Alpine Watchdog,Common,Creature,Dog,2,2,1,White,2,Regular,1,Vigilance,1,0.15,0.32,2,2,2,FALSE
+mz,Core 2021,1,24,Anointed Chorister,Common,Creature,Human Cleric,1,1,1,White,1,Regular,1,Lifelink,1,0.15,0.18,1,1,1,FALSE
+mz,Core 2021,1,36,Aven Gagglemaster,Uncommon,Creature,Bird Warrior,4,3,1,White,5,Regular,1,Flying,1,0.25,0.15,4,3,5,FALSE
+mz,Core 2021,1,15,Baneslayer Angel,Mythic,Creature,Angel,5,5,1,White,5,Regular,4,"Flying, First strike, Lifelink, Protection from Demons and Dragons",1,3,4.11,5,5,5,FALSE
+mz,Core 2021,1,26,Basri's Acolyte,Common,Creature,Cat Cleric,2,3,1,White,4,Regular,1,Lifelink,1,0.15,0.22,2,3,4,FALSE
+mz,Core 2021,1,10,Basri's Lieutenant,Rare,Creature,Human Knight,3,4,1,White,4,Foil,2,"Vigilence, Protection from Mulicolored",1,0.5,0.42,3,4,4,FALSE
+mz,Core 2021,1,8,Celestial Enforcer,Common,Creature,Human Cleric,2,3,1,White,3,Regular,0,NA,1,0.15,0.08,2,3,3,FALSE
+mz,Core 2021,1,5,Concordia Pegasus,Common,Creature,Pegasus,1,3,1,White,2,Regular,1,Flying,1,0.15,0.17,1,3,2,FALSE
+mz,Core 2021,1,23,Containment Priest,Rare,Creature,Human Cleric,2,2,1,White,2,Regular,1,Flash,1,0.5,0.62,2,2,2,FALSE
+mz,Core 2021,1,21,Daybreak Charger,Common,Creature,Unicorn,3,1,1,White,2,Regular,0,NA,1,0.15,0.26,3,1,2,FALSE
+mz,Core 2021,1,15,Falconer Adept,Uncommon,Creature,Human Soldier,2,3,1,White,4,Regular,0,NA,1,0.25,0.19,2,3,4,FALSE
+mz,Core 2021,1,22,Gale Swooper,Common,Creature,Griffin,3,2,1,White,4,Regular,1,Flying,1,0.15,0.16,3,2,4,FALSE
+mz,Core 2021,1,2,Makeshift Battalion,Common,Creature,Human Soldier,3,2,1,White,3,Regular,0,NA,1,0.15,0.11,3,2,3,FALSE
+mz,Core 2021,3,3,"Mangara, the Diplomat",Mythic,Creature,Human Cleric,2,4,1,White,4,Regular,1,Lifelink,1,14,0.84,2,4,4,FALSE
+mz,Core 2021,1,28,Pack Leader,Rare,Creature,Dog,2,2,1,White,2,Regular,0,NA,1,1.5,0.61,2,2,2,FALSE
+mz,Core 2021,1,3,Rambunctious Mutt,Common,Creature,Dog,3,4,1,White,5,Regular,0,NA,1,0.15,0.27,3,4,5,FALSE
+mz,Core 2021,1,27,Seasoned Hallowblade,Uncommon,Creature,Human Warrior,3,1,1,White,2,Regular,0,NA,1,0.25,0.33,3,1,2,FALSE
+mz,Core 2021,2,13,Selfless Savior,Uncommon,Creature,Dog,1,1,1,White,1,Regular,0,NA,1,0.25,0.33,1,1,1,FALSE
+mz,Core 2021,1,16,Siege Striker,Uncommon,Creature,Human Soldier,1,1,1,White,3,Regular,1,Double Strike,1,0.25,0.15,1,1,3,FALSE
+mz,Core 2021,2,31,Speaker of the Heavens,Rare,Creature,Human Cleric,1,1,1,White,1,Regular,2,"Vigilence, Lifelink",1,2,0.53,1,1,1,FALSE
+mz,Core 2021,1,11,Staunch Shieldmate,Common,Creature,Dwarf Soldier,1,3,1,White,1,Regular,0,NA,1,0.15,0.21,1,3,1,FALSE
+mz,Core 2021,1,34,Tempered Veteran,Uncommon,Creature,Human Knight,1,2,1,White,2,Regular,0,NA,1,0.25,0.2,1,2,2,FALSE
+mz,Core 2021,1,18,Valorous Steed,Common,Creature,Unicorn,3,3,1,White,5,Regular,1,Vigilance,1,0.15,0.2,3,3,5,FALSE
+mz,Core 2021,1,22,Vryn Wingmare,Uncommon,Creature,Pegasus,2,1,1,White,3,Regular,1,Flying,1,0.25,0.29,2,1,3,FALSE
+mz,Core 2021,1,1,Warded Battlements,Common,Creature,Wall,0,3,1,White,3,Regular,1,Defender,1,0.15,0.15,0,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Blitz Leech,Common,Creature,Leech,5,2,1,Black,6,Regular,1,Flash,1,0.15,0.19,5,2,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,10,Boot Nipper,Common,Creature,Beast,2,1,1,Black,2,Regular,0,NA,1,0.15,0.19,2,1,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,2,Bushmeat Poacher,Common,Creature,Human Soldier,2,4,1,Black,4,Regular,0,NA,1,0.15,0.29,2,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,10,Cavern Whisperer,Common,Creature,Nightmare,4,4,1,Black,5,Regular,2,"Menace, Mutate",1,0.25,0.27,4,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,34,Chittering Harvester,Uncommon,Creature,Nightmare,4,6,1,Black,6,Regular,1,Mutate,1,0.5,0.26,4,6,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,28,Dirge Bat,Rare,Creature,Bat,3,3,1,Black,4,Regular,3,"Mutate, Flash, Flying",1,0.75,0.32,3,3,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,3,Durable Coilbug,Common,Creature,Insect,2,2,1,Black,2,Regular,0,NA,1,0.15,0.15,2,2,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,15,Duskfang Mentor,Uncommon,Creature,Human Cleric,1,3,1,Black,3,Regular,0,NA,1,0.5,0.19,1,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,16,Gloom Pangolin,Common,Creature,Night Pangolin,1,5,1,Black,3,Regular,0,NA,1,0.15,0.05,1,5,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Grimdancer,Uncommon,Creature,Nightmare,3,3,1,Black,3,Regular,0,NA,1,0.5,0.29,3,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,4,25,Hunted Nightmare,Rare,Creature,Nightmare,4,5,1,Black,3,Regular,1,Menace,1,0.5,0.14,4,5,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,12,Insatiable Hemophage,Uncommon,Creature,Nightmare,3,3,1,Black,4,Showcase,2,"Mutate, Deathtoucht",1,0.75,0.25,3,3,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,4,Lurking Deadeye,Common,Creature,Human Assasin,4,2,1,Black,4,Regular,1,Flash,1,0.15,0.13,4,2,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Nightsquad Commando,Common,Creature,Human Soldier,2,3,1,Black,3,Regular,0,NA,1,0.15,0.12,2,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Serrated Scorpion,Common,Creature,Scorpion,1,2,1,Black,1,Regular,0,NA,1,0.15,0.19,1,2,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,9,Void Beckoner,Uncommon,Creature,Nightmare Horror,8,8,1,Black,8,Regular,2,"Cycling, Deathtouch",1,0.75,0.24,8,8,8,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Whisper Squad,Common,Creature,Human Soldier,1,1,1,Black,1,Regular,0,NA,1,0.15,0.11,1,1,1,FALSE
+mz,Ikoria: Lair of Behemoths,2,11,Zagoth Mamba,Uncommon,Creature,Nightmare Snake,1,1,1,Black,1,Regular,0,NA,1,0.5,0.15,1,1,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,8,Aegis Turtle,Common,Creature,Turtle,0,5,1,Blue,1,Regular,0,NA,1,0.15,0.18,0,5,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,23,Archipelagore,Uncommon,Creature,Leviathan,7,7,1,Blue,7,Regular,1,Mutate,1,0.5,0.2,7,7,7,FALSE
+mz,Ikoria: Lair of Behemoths,1,20,Avian Oddity,Uncommon,Creature,Bird,2,4,1,Blue,4,Regular,1,"Cycling, Flying",1,0.5,0.23,2,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,9,Crystacean,Common,Creature,Crab,1,6,1,Blue,4,Regular,1,Flash,1,0.15,0.2,1,6,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,16,Dreamtail Heron,Common,Creature,Elemental Bird,3,4,1,Blue,5,Showcase,2,"Mutate, Flying",1,0.5,0.18,3,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,1,Facet Reader,Common,Creature,Human Wizard,1,2,1,Blue,2,Regular,0,NA,1,0.15,0.13,1,2,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,11,Frost Lynx,Common,Creature,Elemental Cat,2,2,1,Blue,3,Regular,0,NA,1,0.15,0.19,2,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,16,Glimmerbell,Common,Creature,Elemental Jellyfish,1,3,1,Blue,2,Regular,1,Flying,1,0.15,0.09,1,3,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,1,Phase Dolphin,Common,Creature,Elemental Whale,1,4,1,Blue,3,Regular,0,NA,1,0.15,0.12,1,4,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,33,Pollywog Symbiote,Uncommon,Creature,Frog,1,3,1,Blue,2,Regular,0,NA,1,0.5,0.23,1,3,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,13,Pouncing Shoreshark,Uncommon,Creature,Shark Beast,4,3,1,Blue,5,Regular,1,Flash,1,0.5,0.21,4,3,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,11,Sea-Dasher Octopus,Rare,Creature,Octopus,2,2,1,Blue,3,Foil,1,Flash,1,2.5,0.81,2,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,18,Thieving Otter,Common,Creature,Otter,2,2,1,Blue,3,Regular,0,NA,1,0.15,0.21,2,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,2,10,Voracious Greatshark,Rare,Creature,Shark,5,4,1,Blue,5,Regular,1,Flash,1,1,0.3,5,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,9,Wingfold Pteron,Common,Creature,Dinosaur,3,6,1,Blue,6,Regular,0,NA,1,0.15,0.18,3,6,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Wingspan Mentor,Uncommon,Creature,Human Wizard,1,3,1,Blue,3,Regular,0,NA,1,0.5,0.19,1,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,13,Almighty Brushwagg,Common,Creature,Brushwagg,1,1,1,Green,1,Regular,1,Trample,1,0.15,0.15,1,1,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Auspicious Starrix,Uncommon,Creature,Elk Beast,6,6,1,Green,5,Regular,0,NA,1,0.25,0.28,6,6,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,6,Bristling Boar,Common,Creature,Boar,4,3,1,Green,4,Regular,0,NA,1,0.15,0.17,4,3,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,19,Essence Symbiote,Common,Creature,Beast,2,2,1,Green,2,Regular,0,NA,1,0.15,0.16,2,2,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,9,Excavation Mole,Common,Creature,Mole,3,3,1,Green,3,Regular,1,Trample,1,0.15,0.11,3,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,8,Exuberant Wolfbear,Uncommon,Creature,Wolf Bear,4,4,1,Green,4,Regular,0,NA,1,0.5,0.21,4,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Fertilid,Common,Creature,Elemental,0,0,1,Green,3,Regular,0,NA,1,0.25,0.24,0,0,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Flycatcher Giraffid,Common,Creature,Antelope Lizard,3,5,1,Green,5,Regular,0,NA,1,0.15,0.11,3,5,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Gemrazer,Rare,Creature,Beast,4,4,1,Green,4,Regular,0,NA,1,4,0.42,4,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,15,Glowstone Recluse,Uncommon,Creature,Spider,2,3,1,Green,3,Regular,2,"Mutate, Reach",1,0.75,0.15,2,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,1,Greater Sandwurm,Common,Creature,Wurm,7,7,1,Green,7,Regular,1,Cycling,1,0.15,0.27,7,7,7,FALSE
+mz,Ikoria: Lair of Behemoths,1,3,Honey Mammoth,Common,Creature,Elephant,6,6,1,Green,6,Regular,0,NA,1,0.15,0.14,6,6,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,31,Hornbash Mentor,Uncommon,Creature,Human Warrior,3,3,1,Green,3,Regular,0,NA,1,0.5,0.26,3,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,9,Humble Naturalist,Common,Creature,Human Druid,1,3,1,Green,2,Regular,0,NA,1,0.15,0.16,1,3,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,22,Ivy Elemental,Uncommon,Creature,Elemental,0,0,1,Green,1,Regular,0,NA,1,0.5,0.25,0,0,1,FALSE
+mz,Ikoria: Lair of Behemoths,3,27,"Kogla, the Titan Ape",Rare,Creature,Ape,7,6,1,Green,6,Regular,0,NA,1,0.5,3.56,7,6,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,24,Migratory Greathorn,Common,Creature,Beast,3,4,1,Green,4,Showcase,1,Mutate,1,0.5,0.19,3,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,17,Mosscoat Goriak,Common,Creature,Beast,2,4,1,Green,3,Regular,1,Vigilance,1,0.15,0.09,2,4,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,27,Titanoth Rex,Uncommon,Creature,Dinosaur Beast,11,11,1,Green,9,Regular,2,"Cycling, Trample",1,0.5,0.37,11,11,9,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Blisterspit Gremlin,Common,Creature,Gremlin,1,1,1,Red,1,Regular,0,NA,1,0.15,0.28,1,1,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,18,Cloudpiercer,Common,Creature,Dinosaur,5,4,1,Red,5,Showcase,2,"Mutate, Reach",1,0.5,0.21,5,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Drannith Stinger,Common,Creature,Human Wizard,2,2,1,Red,2,Regular,1,Cycling,1,0.15,0.21,2,2,2,FALSE
+mz,Ikoria: Lair of Behemoths,2,18,Everquill Phoenix,Rare,Creature,Pheonix,4,4,1,Red,4,Regular,2,"Mutate, Flying",1,0.5,0.25,4,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,4,Ferocious Tigorilla,Common,Creature,Cat Ape,4,3,1,Red,4,Regular,0,NA,1,0.15,0.2,4,3,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,9,Frenzied Raptor,Common,Creature,Dinosaur,4,2,1,Red,3,Regular,0,NA,1,0.15,0.2,4,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,3,Frillscare Mentor,Uncommon,Creature,Human Warrior,3,2,1,Red,3,Regular,0,NA,1,0.5,0.22,3,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,15,Lava Serpent,Common,Creature,Elemental Serpent,5,5,1,Red,6,Regular,2,"Haste, Cycling",1,0.15,0.15,5,5,6,FALSE
+mz,Ikoria: Lair of Behemoths,2,33,Momentum Rumbler,Uncommon,Creature,Dinosaur,3,3,1,Red,4,Regular,4,NA,1,0.5,0.19,3,3,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,16,Porcuparrot,Uncommon,Creature,Bird Beast,3,4,1,Red,4,Regular,1,Mutate,1,0.5,0.23,3,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,20,Prickly Marmoset,Common,Creature,Monkey,2,3,1,Red,3,Regular,1,First Strike,1,0.15,0.18,2,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,12,Pyroceratops,Common,Creature,Elemental Dinosaur,2,3,1,Red,4,Regular,1,Trample,1,0.15,0.21,NA,NA,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,1,Rooting Moloch,Uncommon,Creature,Lizard,4,4,1,Red,5,Regular,1,Cycling,1,0.25,0.23,4,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,21,Sanctuary Smasher,Uncommon,Creature,Rhino Beast,6,4,1,Red,6,Regular,2,"Cycling, First Strike",1,0.5,0.21,6,4,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,11,Spelleater Wolverine,Common,Creature,Wolverine,3,2,1,Red,3,Regular,0,NA,1,0.15,0.18,3,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,3,30,"Yidaro, Wandering Monster",Rare,Creature,Dinosaur Turtle,8,8,1,Red,7,Regular,3,"Cycling, Trample, Haste",1,0.5,0.38,8,8,7,FALSE
+mz,Ikoria: Lair of Behemoths,1,4,Checkpoint Officer,Common,Creature,Human Soldier,1,2,1,White,2,Regular,0,NA,1,0.15,0.06,1,2,2,FALSE
+mz,Ikoria: Lair of Behemoths,2,11,Cubwarden,Rare,Creature,Cat,3,5,1,White,4,Showcase Foil,2,"Mutate, Lifelink",1,4,1.92,3,5,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Daysquad Marshal,Common,Creature,Human Soldier,3,3,1,White,4,Regular,0,NA,1,0.15,0.16,3,3,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,4,Drannith Healer,Common,Creature,Human Cleric,2,2,1,White,2,Regular,1,Cycling,1,0.15,0.23,2,2,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,32,Drannith Magistrate,Rare,Creature,Human Wizard,1,3,1,White,2,Regular,0,NA,1,5,12.17,1,3,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,35,Flourishing Fox,Uncommon,Creature,Fox,1,1,1,White,1,Regular,1,Cycling,1,0.5,0.22,1,1,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,16,Garrison Cat,Common,Creature,Cat,1,1,1,White,1,Regular,0,NA,1,0.15,0.3,1,1,1,FALSE
+mz,Ikoria: Lair of Behemoths,1,11,Helica Glider,Common,Creature,Nightmare Squirrel,2,2,1,White,3,Regular,0,NA,1,0.15,0.15,2,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,12,Huntmaster Liger,Uncommon,Creature,Cat,3,4,1,White,3,Showcase,1,Mutate,1,0.5,0.17,3,4,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,8,Imposing Vantasaur,Common,Creature,Dinosaur,3,6,1,White,6,Regular,2,"Cycling, Vigilance",1,0.15,0.24,3,6,6,FALSE
+mz,Ikoria: Lair of Behemoths,1,5,Keensight Mentor,Uncommon,Creature,Human Cleric,1,4,1,White,3,Regular,0,NA,1,0.25,0.19,1,4,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,30,Lavabrink Venturer,Rare,Creature,Human Soldier,3,3,1,White,3,Regular,0,NA,1,0.75,0.15,3,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,1,Luminous Broodmoth,Mythic,Creature,Insect,3,4,1,White,4,Regular,1,Flying,1,16,1.7,3,4,4,FALSE
+mz,Ikoria: Lair of Behemoths,1,15,Majestic Auricorn,Uncommon,Creature,Unicorn,4,4,1,White,5,Regular,1,Vigilance,1,0.5,0.16,4,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,16,Maned Serval,Common,Creature,Cat,1,4,1,White,2,Regular,1,Vigilance,1,0.15,0.23,1,4,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,3,Patagia Tiger,Common,Creature,Cat,3,4,1,White,5,Regular,1,Flying,1,0.15,0.11,3,4,5,FALSE
+mz,Ikoria: Lair of Behemoths,1,1,Perimeter Sergeant,Common,Creature,Human Soldier,3,2,1,White,3,Regular,0,NA,1,0.15,0.12,3,2,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,25,Savai Sabertooth,Common,Creature,Cat,3,1,1,White,2,Regular,0,NA,1,0.15,0.25,3,1,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Snare Tactician,Common,Creature,Human Soldier,2,3,1,White,3,Regular,0,NA,1,0.15,0.14,2,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,24,Splendor Mare,Uncommon,Creature,Elk Unicorn,3,3,1,White,3,Regular,2,"Cycling, Lifelink",1,0.5,0.3,3,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,20,Stormwild Capridor,Uncommon,Creature,Bird Goat,1,3,1,White,3,Regular,1,Flying,1,0.5,0.25,1,3,3,FALSE
+mz,Ikoria: Lair of Behemoths,1,7,Valiant Rescuer,Uncommon,Creature,Human Soldier,3,1,1,White,2,Regular,1,Cycling,1,0.5,0.26,3,1,2,FALSE
+mz,Ikoria: Lair of Behemoths,1,17,Vulpikeet,Common,Creature,Fox Bird,2,3,1,White,4,Regular,2,"Mutate, Flying",1,0.15,0.27,2,3,4,FALSE
+mz,Zendikar Rising,1,8,Acquisitions Expert,Uncommon,Creature,Human Rogue,1,2,1,Black,2,Regular,0,NA,1,0.25,0.23,1,2,2,FALSE
+mz,Zendikar Rising,1,20,Blackbloom Rogue // Blackbloom Bog,Uncommon,Creature,Human Rogue,2,3,1,Black,3,Regular,1,Menace,1,0.25,0.14,2,3,3,FALSE
+mz,Zendikar Rising,1,12,Demon's Disciple,Uncommon,Creature,Human Cleric,3,1,1,Black,3,Regular,0,NA,1,0.25,0.28,3,1,3,FALSE
+mz,Zendikar Rising,1,20,Drana's Silencer,Common,Creature,Vampire Rogue,3,2,1,Black,6,Regular,0,NA,1,0.15,0.13,3,2,6,FALSE
+mz,Zendikar Rising,1,1,Dreadwurm,Common,Creature,Wurm Horror,5,4,1,Black,5,Regular,1,Landfall,1,0.15,0.2,5,4,5,FALSE
+mz,Zendikar Rising,1,6,Expedition Skulker,Common,Creature,Vampire Rogue,2,2,1,Black,2,Regular,0,NA,1,0.15,0.07,2,2,2,FALSE
+mz,Zendikar Rising,1,2,Ghastly Gloomhunter,Common,Creature,Zombie Bat,1,1,1,Black,2,Regular,3,"Kicker, Flying, Lifelink",1,0.15,0.14,1,1,2,FALSE
+mz,Zendikar Rising,1,2,Guul Draz Mucklord,Common,Creature,Crocodile,2,3,1,Black,3,Regular,0,NA,1,0.15,0.07,2,3,3,FALSE
+mz,Zendikar Rising,1,21,Hagra Constrictor,Common,Creature,Snake,0,0,1,Black,3,Regular,0,NA,1,0.15,0.18,0,0,3,FALSE
+mz,Zendikar Rising,1,4,Highborn Vampire,Common,Creature,Vampire Warrior,4,3,1,Black,4,Regular,0,NA,1,0.15,0.14,4,3,4,FALSE
+mz,Zendikar Rising,1,26,Malakir Blood-Priest,Common,Creature,Vampire Cleric,2,1,1,Black,2,Regular,0,NA,1,0.15,0.28,2,1,2,FALSE
+mz,Zendikar Rising,1,3,Marauding Blight-Priest,Common,Creature,Vampire Cleric,3,2,1,Black,3,Regular,0,NA,1,0.15,0.2,3,2,3,FALSE
+mz,Zendikar Rising,1,6,Nimana Skitter-Sneak,Common,Creature,Human Rogue,3,4,1,Black,4,Regular,0,NA,1,0.15,0.08,3,4,4,FALSE
+mz,Zendikar Rising,1,1,Nimana Skydancer,Common,Creature,Human Rogue,2,1,1,Black,3,Regular,2,"Flash, Flying",1,0.15,0.08,2,1,3,FALSE
+mz,Zendikar Rising,2,36,Nullpriest of Oblivion,Rare,Creature,Vampire Cleric,2,1,1,Black,2,Regular,3,"Kicker, Menace, Lifelink",1,1.5,0.36,2,1,2,FALSE
+mz,Zendikar Rising,1,14,Scion of the Swarm,Uncommon,Creature,Vampire Cleric,3,3,1,Black,5,Foil,1,Flying,1,0.5,0.15,3,3,5,FALSE
+mz,Zendikar Rising,1,4,Shadow Stinger,Uncommon,Creature,Vampire Rogue,1,4,1,Black,3,Regular,0,NA,1,0.25,0.16,1,4,3,FALSE
+mz,Zendikar Rising,1,1,Skyclave Shade,Rare,Creature,Shade,3,1,1,Black,2,Regular,2,"Kicker, Landfall",1,1.5,0.22,3,1,2,FALSE
+mz,Zendikar Rising,1,18,Skyclave Shadowcat,Uncommon,Creature,Cat Horror,3,3,1,Black,4,Regular,0,NA,1,0.25,0.25,3,3,4,FALSE
+mz,Zendikar Rising,1,20,"Taborax, Hope's Demise",Rare,Creature,Demon Cleric,2,2,1,Black,3,Regular,1,Flying,1,2.5,0.28,2,2,3,FALSE
+mz,Zendikar Rising,1,12,Cascade Seer,Common,Creature,Merfolk Wizard,3,3,1,Blue,4,Regular,0,NA,1,0.15,0.1,3,3,4,FALSE
+mz,Zendikar Rising,1,33,"Charix, the Raging Isle",Rare,Creature,Leviathan Crab,0,17,1,Blue,4,Regular,0,NA,1,0.5,0.52,0,17,4,FALSE
+mz,Zendikar Rising,1,17,Cleric of Chill Depths,Common,Creature,Merfolk Cleric,1,3,1,Blue,2,Regular,0,NA,1,0.15,0.21,1,3,2,FALSE
+mz,Zendikar Rising,2,6,Coralhelm Chronicler,Rare,Creature,Merfolk Wizard,2,2,1,Blue,1,Regular,0,NA,1,0.5,0.14,2,2,1,FALSE
+mz,Zendikar Rising,1,16,Cunning Geysermage,Common,Creature,Human Wizard,3,2,1,Blue,3,Regular,1,Kicker,1,0.15,0.04,3,2,3,FALSE
+mz,Zendikar Rising,1,9,Expedition Diviner,Common,Creature,Merfolk Wizard,3,2,1,Blue,4,Regular,1,Flying,1,0.15,0.05,3,2,4,FALSE
+mz,Zendikar Rising,2,3,Glasspool Mimic // Glasspool Shore,Rare,Creature,Shapeshifter Rogue,0,0,1,Blue,3,Regular,0,NA,1,4,6.64,0,0,3,FALSE
+mz,Zendikar Rising,1,5,Living Tempest,Common,Creature,Elemental,3,3,1,Blue,5,Regular,2,"Flash, Flying",1,0.15,0.03,3,3,5,FALSE
+mz,Zendikar Rising,1,7,Master of Winds,Rare,Creature,Sphinx Wizard,1,4,1,Blue,4,Regular,1,Flying,1,0.75,0.3,1,4,4,FALSE
+mz,Zendikar Rising,1,27,Merfolk Falconer,Uncommon,Creature,Merfolk Wizard,4,4,1,Blue,5,Regular,1,Flying,1,0.15,0.07,4,4,5,FALSE
+mz,Zendikar Rising,1,31,Merfolk Windrobber,Uncommon,Creature,Merfolk Rogue,1,1,1,Blue,1,Regular,1,Flying,1,0.25,0.16,1,1,1,FALSE
+mz,Zendikar Rising,2,27,Nimble Trapfinder,Rare,Creature,Human Rogue,2,1,1,Blue,2,Regular,0,NA,1,0.5,0.23,2,1,2,FALSE
+mz,Zendikar Rising,1,4,Risen Riptide,Common,Creature,Elemental,0,5,1,Blue,3,Regular,0,NA,1,0.15,0.15,0,5,3,FALSE
+mz,Zendikar Rising,1,20,Ruin Crab,Uncommon,Creature,Crab,0,3,1,Blue,1,Showcase,1,Landfall,1,2,1.24,0,3,1,FALSE
+mz,Zendikar Rising,5,31,Sea Gate Stormcaller,Mythic,Creature,Human Wizard,2,1,1,Blue,2,Regular,1,Kicker,1,8,0.3,2,1,2,FALSE
+mz,Zendikar Rising,1,9,Seafloor Stalker,Common,Creature,Merfolk Rogue,2,3,1,Blue,3,Regular,0,NA,1,0.15,0.18,2,3,3,FALSE
+mz,Zendikar Rising,1,3,Skyclave Squid,Common,Creature,Squid,3,2,1,Blue,2,Regular,2,"Defender, Landfall",1,0.15,0.1,3,2,2,FALSE
+mz,Zendikar Rising,1,15,Sure-Footed Infiltrator,Uncommon,Creature,Merfolk Rogue,2,3,1,Blue,4,Regular,0,NA,1,0.25,0.16,2,3,4,FALSE
+mz,Zendikar Rising,1,3,Tazeem Roilmage,Common,Creature,Merfolk Wizard,2,1,1,Blue,2,Regular,1,Kicker,1,0.15,0.15,2,1,2,FALSE
+mz,Zendikar Rising,2,7,Thieving Skydiver,Rare,Creature,Merfolk Rogue,2,1,1,Blue,2,Regular,2,"Kicker, Flying",1,6,0.25,2,1,2,FALSE
+mz,Zendikar Rising,1,33,Umara Wizard // Umara Skyfalls,Uncommon,Creature,Merfolk Wizard,4,3,1,Blue,5,Regular,0,NA,1,0.25,0.19,4,3,5,FALSE
+mz,Zendikar Rising,1,10,Windrider Wizard,Uncommon,Creature,Human Wizard,2,2,1,Blue,3,Regular,1,Flying,1,0.25,0.13,2,2,3,FALSE
+mz,Zendikar Rising,1,1,Zulaport Duelist,Common,Creature,Human Rogue,1,1,1,Blue,1,Regular,1,Flash,1,0.15,0.16,1,1,1,FALSE
+mz,Zendikar Rising,4,10,Ancient Greenwarden,Mythic,Creature,Elemental,5,7,1,Green,6,Regular,1,Reach,1,25,13.21,5,7,6,FALSE
+mz,Zendikar Rising,1,6,Canopy Baloth,Common,Creature,Beast,4,3,1,Green,4,Regular,1,Landfall,1,0.15,0.24,4,3,4,FALSE
+mz,Zendikar Rising,1,27,Cragplate Baloth,Rare,Creature,Beast,6,6,1,Green,7,Regular,3,"Kicker, Hexproof, Haste",1,0.75,0.24,6,6,7,FALSE
+mz,Zendikar Rising,1,2,Dauntless Survivor,Common,Creature,Human Warrior,1,1,1,Green,2,Regular,0,NA,1,0.15,0.21,1,1,2,FALSE
+mz,Zendikar Rising,1,3,Gnarlid Colony,Common,Creature,Beast,2,2,1,Green,2,Regular,1,Kicker,1,0.15,0.05,2,2,2,FALSE
+mz,Zendikar Rising,1,29,Iridescent Hornbeetle,Uncommon,Creature,Insect,3,4,1,Green,5,Regular,0,NA,1,0.25,0.33,3,4,5,FALSE
+mz,Zendikar Rising,1,12,Joraga Visionary,Common,Creature,Elf Wizard,3,2,1,Green,4,Regular,0,NA,1,0.15,0.18,3,2,4,FALSE
+mz,Zendikar Rising,5,16,Kazandu Mammoth // Kazandu Valley,Rare,Creature,Elephant,3,3,1,Green,3,Regular,1,Landfall,1,1.5,0.33,3,3,3,FALSE
+mz,Zendikar Rising,1,16,Kazandu Nectarpot,Common,Creature,Insect,1,3,1,Green,2,Regular,1,Landfall,1,0.15,0.3,1,3,2,FALSE
+mz,Zendikar Rising,1,5,Kazandu Stomper,Common,Creature,Beast,6,5,1,Green,6,Regular,1,Trample,1,0.15,0.05,6,5,6,FALSE
+mz,Zendikar Rising,2,16,Lotus Cobra,Rare,Creature,Snake,2,1,1,Green,2,Regular,1,Landfall,1,12,6.15,2,1,2,FALSE
+mz,Zendikar Rising,1,1,Murasa Brute,Common,Creature,Troll Warrior,3,3,1,Green,3,Regular,0,NA,1,0.15,0.14,3,3,3,FALSE
+mz,Zendikar Rising,2,1,Murasa Sproutling,Uncommon,Creature,Plant Elemental,3,3,1,Green,3,Regular,1,Kicker,1,0.25,0.08,3,3,3,FALSE
+mz,Zendikar Rising,1,6,Oran-Rief Ooze,Rare,Creature,Ooze,2,2,1,Green,3,Regular,0,NA,1,1,0.31,2,2,3,FALSE
+mz,Zendikar Rising,2,14,Scute Swarm,Rare,Creature,Insect,1,1,1,Green,3,Regular,1,Landfall,1,8,9.2,1,1,3,FALSE
+mz,Zendikar Rising,1,18,Springmantle Cleric,Uncommon,Creature,Elf Cleric,2,3,1,Green,5,Regular,0,NA,1,0.25,0.09,2,3,5,FALSE
+mz,Zendikar Rising,4,32,Swarm Shambler,Rare,Creature,Fungus Beast,0,0,1,Green,1,Foil,0,NA,1,1,0.26,0,0,1,FALSE
+mz,Zendikar Rising,1,15,Tajuru Blightblade,Common,Creature,Elf Rogue,1,1,1,Green,1,Regular,1,Deathtouch,1,0.15,0.22,1,1,1,FALSE
+mz,Zendikar Rising,1,11,Tajuru Paragon,Rare,Creature,Elf,3,2,1,Green,2,Regular,1,Kicker,1,1.5,0.23,3,2,2,FALSE
+mz,Zendikar Rising,1,1,Tajuru Snarecaster,Common,Creature,Elf Rogue,1,4,1,Green,3,Regular,1,Reach,1,0.15,0.15,1,4,3,FALSE
+mz,Zendikar Rising,1,8,Tangled Florahedron // Tangled Vale,Uncommon,Creature,Elemental,1,1,1,Green,2,Foil,0,NA,1,0.5,0.49,1,1,2,FALSE
+mz,Zendikar Rising,1,4,Taunting Arbormage,Uncommon,Creature,Elf Wizard,2,3,1,Green,3,Regular,1,Kicker,1,0.25,0.06,2,3,3,FALSE
+mz,Zendikar Rising,1,2,Territorial Scythecat,Common,Creature,Cat,2,1,1,Green,3,Regular,2,"Trample, Landfall",1,0.15,0.22,2,1,3,FALSE
+mz,Zendikar Rising,1,11,Turntimber Ascetic,Common,Creature,Giant Cleric,5,4,1,Green,5,Regular,0,NA,1,0.15,0.13,5,4,5,FALSE
+mz,Zendikar Rising,1,28,Veteran Adventurer,Uncommon,Creature,Human,5,5,1,Green,6,Regular,0,NA,1,0.25,0.24,5,5,6,FALSE
+mz,Zendikar Rising,1,9,Vine Gecko,Uncommon,Creature,Elemental Lizard,2,2,1,Green,2,Regular,0,NA,1,0.25,0.19,2,2,2,FALSE
+mz,Zendikar Rising,1,6,Akoum Hellhound,Common,Creature,Elemental Dog,0,1,1,Red,1,Regular,1,Landfall,1,0.15,0.23,0,1,1,FALSE
+mz,Zendikar Rising,1,36,Akoum Warrior // Akoum Teeth,Uncommon,Creature,Minotaur Warrior,4,5,1,Red,6,Regular,1,Trample,1,0.25,0.25,4,5,6,FALSE
+mz,Zendikar Rising,1,4,Ardent Electromancer,Common,Creature,Human Wizard,3,2,1,Red,3,Regular,0,NA,1,0.15,0.1,3,2,3,FALSE
+mz,Zendikar Rising,1,15,Expedition Champion,Common,Creature,Human Warrior,2,3,1,Red,3,Regular,0,NA,1,0.15,0.09,2,3,3,FALSE
+mz,Zendikar Rising,1,29,Fireblade Charger,Uncommon,Creature,Goblin Warrior,1,1,1,Red,1,Regular,0,NA,1,0.25,0.17,1,1,1,FALSE
+mz,Zendikar Rising,1,9,Fissure Wizard,Common,Creature,Goblin Wizard,2,1,1,Red,2,Regular,0,NA,1,0.15,0.06,2,1,2,FALSE
+mz,Zendikar Rising,1,12,Goma Fada Vanguard,Uncommon,Creature,Human Warrior,2,2,1,Red,2,Regular,0,NA,1,0.25,0.23,2,2,2,FALSE
+mz,Zendikar Rising,1,2,Grotag Bug-Catcher,Common,Creature,Goblin Warrior,1,2,1,Red,2,Regular,1,Trample,1,0.15,0.15,1,2,2,FALSE
+mz,Zendikar Rising,1,1,Grotag Night-Runner,Uncommon,Creature,Goblin Rogue,2,3,1,Red,3,Regular,0,NA,1,0.25,0.14,2,3,3,FALSE
+mz,Zendikar Rising,1,32,Kargan Intimidator,Rare,Creature,Human Warrior,3,1,1,Red,2,Regular,0,NA,1,0.75,0.26,3,1,2,FALSE
+mz,Zendikar Rising,1,34,Magmatic Channeler,Rare,Creature,Human Wizard,1,3,1,Red,2,Regular,0,NA,1,3,0.28,1,3,0,FALSE
+mz,Zendikar Rising,2,2,"Moraug, Fury of Akoum",Mythic,Creature,Minotaur Warrior,6,6,1,Red,6,Showcase,1,Landfall,1,13,6.51,6,6,6,FALSE
+mz,Zendikar Rising,1,1,Pyroclastic Hellion,Common,Creature,Hellion,4,5,1,Red,5,Regular,0,NA,1,0.15,0.09,4,5,5,FALSE
+mz,Zendikar Rising,1,25,Relic Robber,Rare,Creature,Goblin Rogue,2,2,1,Red,3,Regular,1,Haste,1,1,0.26,2,2,3,FALSE
+mz,Zendikar Rising,1,32,Rockslide Sorcerer,Uncommon,Creature,Human Wizard,3,3,1,Red,4,Regular,0,NA,1,0.25,0.14,3,3,4,FALSE
+mz,Zendikar Rising,1,8,Scorch Rider,Common,Creature,Human Warrior,4,3,1,Red,4,Regular,1,Kicker,1,0.15,0.04,4,3,4,FALSE
+mz,Zendikar Rising,1,30,Shatterskull Minotaur,Uncommon,Creature,Minotaur Warrior,5,4,1,Red,6,Regular,0,NA,1,0.25,0.22,5,4,6,FALSE
+mz,Zendikar Rising,1,35,Skyclave Geopede,Uncommon,Creature,Insect,3,1,1,Red,3,Regular,2,"Trample, Landfall",1,0.25,0.15,NA,NA,3,FALSE
+mz,Zendikar Rising,1,15,Sneaking Guide,Common,Creature,Goblin Rogue,1,1,1,Red,1,Regular,0,NA,1,0.15,0.14,1,1,1,FALSE
+mz,Zendikar Rising,1,6,Spitfire Lagac,Common,Creature,Lizard,3,4,1,Red,4,Showcase,1,Landfall,1,0.25,0.17,3,4,4,FALSE
+mz,Zendikar Rising,1,5,Teeterpeak Ambusher,Common,Creature,Goblin Warrior,1,3,1,Red,2,Regular,0,NA,1,0.15,0.07,1,3,2,FALSE
+mz,Zendikar Rising,1,19,Thundering Sparkmage,Uncommon,Creature,Human Wizard,2,2,1,Red,4,Regular,0,NA,1,0.25,0.12,2,2,4,FALSE
+mz,Zendikar Rising,1,4,Tuktuk Rubblefort,Common,Creature,Wall,0,3,1,Red,3,Regular,2,"Defender, Reach",1,0.15,0.29,0,3,3,FALSE
+mz,Zendikar Rising,2,30,Wayward Guide-Beast,Rare,Creature,Beast,2,2,1,Red,1,Regular,2,"Trample, Haste",1,1.5,0.18,2,2,1,FALSE
+mz,Zendikar Rising,5,35,Angel of Destiny,Mythic,Creature,Angel Cleric,2,6,1,White,5,Regular,2,"Flying, Double Strike",1,8,9.01,2,6,5,FALSE
+mz,Zendikar Rising,1,7,Angelheart Protector,Common,Creature,Human Cleric,3,2,1,White,3,Regular,0,NA,1,0.15,0.2,3,2,3,FALSE
+mz,Zendikar Rising,2,5,Archon of Emeria,Rare,Creature,Archon,2,3,1,White,3,Regular,1,Flying,1,1.5,2.57,2,3,3,FALSE
+mz,Zendikar Rising,1,21,Archpriest of Iona,Rare,Creature,Human Cleric,0,2,1,White,1,Regular,0,NA,1,0.35,0.31,0,2,1,FALSE
+mz,Zendikar Rising,1,6,Attended Healer,Uncommon,Creature,Kor Cleric,2,3,1,White,4,Regular,0,NA,1,0.25,0.19,2,3,4,FALSE
+mz,Zendikar Rising,1,11,Canyon Jerboa,Uncommon,Creature,Mouse,1,2,1,White,3,Showcase,1,Landfall,1,0.35,0.12,1,2,3,FALSE
+mz,Zendikar Rising,1,8,Cliffhaven Sell-Sword,Common,Creature,Kor Warrior,3,1,1,White,2,Regular,0,NA,1,0.15,0.17,3,1,2,FALSE
+mz,Zendikar Rising,1,34,Emeria Captain,Uncommon,Creature,Angel Warrior,1,1,1,White,4,Regular,2,"Flying, Vigilance",1,0.25,0.14,1,1,4,FALSE
+mz,Zendikar Rising,1,15,Expedition Healer,Common,Creature,Kor Cleric,2,2,1,White,2,Regular,1,Vigilance,1,0.15,0.07,2,2,2,FALSE
+mz,Zendikar Rising,1,6,Farsight Adept,Common,Creature,Kor Wizard,3,3,1,White,3,Regular,0,NA,1,0.15,0.25,3,3,3,FALSE
+mz,Zendikar Rising,1,7,Fearless Fledgling,Uncommon,Creature,Griffin,1,1,1,White,2,Regular,1,Landfall,1,0.25,0.22,1,1,2,FALSE
+mz,Zendikar Rising,1,4,Kabira Outrider,Common,Creature,Human Warrior,3,3,1,White,4,Regular,0,NA,1,0.15,0.22,3,3,4,FALSE
+mz,Zendikar Rising,1,5,Kitesail Cleric,Uncommon,Creature,Kor Cleric,1,1,1,White,1,Regular,2,"Kicker, Flying",1,0.25,0.15,1,1,1,FALSE
+mz,Zendikar Rising,1,19,Kor Blademaster,Uncommon,Creature,Kor Warrior,1,1,1,White,2,Regular,1,Double Strike,1,0.25,0.22,1,1,2,FALSE
+mz,Zendikar Rising,1,13,Kor Celebrant,Common,Creature,Kor Cleric,1,4,1,White,3,Regular,0,NA,1,0.15,0.12,1,4,3,FALSE
+mz,Zendikar Rising,1,13,Legion Angel,Rare,Creature,Angel Warrior,4,3,1,White,4,Regular,1,Flying,1,1,0.31,4,3,4,FALSE
+mz,Zendikar Rising,1,9,Luminarch Aspirant,Rare,Creature,Human Cleric,1,1,1,White,2,Regular,0,NA,1,1,0.38,1,1,2,FALSE
+mz,Zendikar Rising,1,9,Makindi Ox,Common,Creature,Ox,4,4,1,White,5,Showcase,1,Landfall,1,0.25,0.13,4,4,5,FALSE
+mz,Zendikar Rising,1,4,Mesa Lynx,Common,Creature,Cat,2,1,1,White,2,Regular,0,NA,1,0.15,0.07,2,1,2,FALSE
+mz,Zendikar Rising,1,27,Paired Tactician,Uncommon,Creature,Human Warrior,3,2,1,White,3,Regular,0,NA,1,0.15,0.1,3,2,3,FALSE
+mz,Zendikar Rising,1,13,Prowling Felidar,Common,Creature,Cat Beast,2,3,1,White,4,Regular,2,"Vigilance, Landfall",1,0.15,0.21,2,3,4,FALSE
+mz,Zendikar Rising,1,7,Sea Gate Banneret,Common,Creature,Kor Warrior,1,2,1,White,1,Regular,0,NA,1,0.15,0.15,1,2,1,FALSE
+mz,Zendikar Rising,1,4,Shepherd of Heroes,Common,Creature,Angel Cleric,3,4,1,White,5,Regular,1,Flying,1,0.15,0.18,3,4,5,FALSE
+mz,Zendikar Rising,2,2,Skyclave Apparition,Rare,Creature,Kor Spirit,2,2,1,White,3,Foil,0,NA,1,13,0.67,2,2,3,FALSE
+mz,Zendikar Rising,1,31,Skyclave Cleric // Skyclave Basilica,Uncommon,Creature,Kor Cleric,1,3,1,White,2,Regular,0,NA,1,0.25,0.2,1,3,2,FALSE
+mz,Zendikar Rising,2,8,Squad Commander,Rare,Creature,Kor Warrior,3,3,1,White,4,Regular,0,NA,1,0.75,0.3,3,3,4,FALSE
+mz,Zendikar Rising,1,5,Tazeem Raptor,Common,Creature,Bird,2,2,1,White,3,Regular,1,Flying,1,0.15,0.17,2,2,3,FALSE
